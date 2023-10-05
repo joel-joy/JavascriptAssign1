@@ -1,0 +1,44 @@
+button, p {
+    text-align: center;
+}
+
+button {
+    background-color: #6f0006;
+    color: #a5b403;
+    border: none;
+    padding: 10px 20px;
+    margin: 5px;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #06028b;
+}
+
+h1 {
+    background-color: #000000;
+    color: #ffffff;
+    text-align: center;
+    padding: 10px;
+}
+
+section {
+    background-color: #bebb0e;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 5px;
+}
+
+body {
+    background-color: #000000;
+    font-family: Arial, sans-serif;
+}
+
+body, h2, p {
+    margin: 0;
+    padding: 0;
+}
+
+body p{
+    color: #fff;
+}
